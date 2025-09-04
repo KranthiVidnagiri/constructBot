@@ -1,7 +1,7 @@
 # 🏗️ Construction Chatbot — Arqonz Assignment
 
 **Assignment Track:** AIML Developer  
-**Candidate:** KranthiVidnagiri (GitHub: [Kaushik-hub18](https://github.com/Kaushik-hub18))  
+**Candidate:** KranthiVidnagiri (GitHub: https://github.com/KranthiVidnagiri/constructBot/blob/main/construction-chatbot-main)  
 **Tech Stack:** React (frontend) • FastAPI (backend) • Hosted on Vercel + Render  
 
 ---
